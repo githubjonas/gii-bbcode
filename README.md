@@ -1,16 +1,5 @@
 gii-bbcode
 ==========
-
-
-IMPORTANT NOTICE!
------------------
-A portion of this file is Copyright (c) 2008, Stone Steps Inc.
-All rights reserved and under bsd license, see below for more information.
-Modifications have been made to that section by the following:
- * Added support for image [img] tags
-
-Description
------------
 The gii-bbcode plugin is an easy to install, but yet very flexible
 component to view and edit bbcode content. It is very configurable and
 has language support. It converts bbcoded content completely on the
@@ -36,6 +25,13 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+Copyright notice
+----------------
+A portion of this file is Copyright (c) 2008, Stone Steps Inc.
+All rights reserved and under bsd license, see below for more information.
+Modifications have been made to that section by the following:
+ * Added support for image [img] tags
+ 
 Changelog:
 ----------
  * 1.0.0    Getskär, October 30th, 2012.
