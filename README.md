@@ -1,3 +1,5 @@
+This repository is not really maintained, but kept here for history and fun.
+
 gii-bbcode
 ==========
 The gii-bbcode plugin is an easy to install, but yet very flexible
